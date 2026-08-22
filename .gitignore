@@ -1,0 +1,9 @@
+# Data files
+*.csv
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
